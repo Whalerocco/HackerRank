@@ -1,0 +1,6 @@
+total value nr of coins
+coin1Value coin2value etc...
+
+
+---------------------------------------------
+run from anaconda prompt: python code.py < input.txt > output.txt
